@@ -1,0 +1,19 @@
+
+.reg {
+font-size: 36px;
+color: blue;
+}
+
+
+.rabota {
+    background-color: rgb(76, 171, 76);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+p {
+    background-color: red;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
